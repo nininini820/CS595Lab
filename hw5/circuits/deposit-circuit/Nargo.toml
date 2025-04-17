@@ -1,0 +1,7 @@
+[package]
+name = "deposit_circuit"
+type = "bin"
+authors = [""]
+
+[dependencies]
+std = { path = "../../../noir/noir_stdlib" }
