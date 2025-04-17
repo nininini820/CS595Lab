@@ -4,4 +4,3 @@ type = "bin"
 authors = [""]
 
 [dependencies]
-std = { path = "../../../noir/noir_stdlib" }
